@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Outros arquivos comuns de cache
+*.log
+*.tlog
+*.tmp
+*.dbmdl
+*.db
+
+# Backup
+*~
